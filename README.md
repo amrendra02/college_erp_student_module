@@ -37,4 +37,4 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/amrendra03/college_erp_student_module.git
+   git clone https://github.com/amrendra02/college_erp_student_module.git
