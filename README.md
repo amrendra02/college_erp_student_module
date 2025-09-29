@@ -1,3 +1,6 @@
+The College ERP Student Module is a web application developed to address the needs of students to access their daily updates and college-related work efficiently. The application is built using a modern tech stack including React JS for the frontend, Spring Boot for the backend, Spring Security for authentication and authorization, JPA for data persistence, MySQL as the database, and REST APIs for communication.
+
+
 # College ERP Student Module
 
 ## Description
